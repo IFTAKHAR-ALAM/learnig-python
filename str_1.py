@@ -6,6 +6,8 @@ print("I am working with Inurance. \n but I am intersted in IT")
 
 str = ("My name is iftikhat.\n I am working Insurance")
 
+print("My name is IFTIKHAR" + "and I am working with Insurance")
+
 int("20")
 x = int(input("Enter your val:" ))
 

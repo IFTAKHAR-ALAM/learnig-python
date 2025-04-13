@@ -28,3 +28,6 @@ print(x[ 2:5 ])
 
 x = "NUSRAT IFTIKHAR"
 print(x[ 0:9 ])
+
+x = "ARSAL IFTIKHAR"
+print(x[ -1:-5])

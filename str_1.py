@@ -15,5 +15,10 @@ print(type(x), x))
 
 
 name = input("Enter your name:" )
-
 print("Welcoe" , name )
+
+
+x = "M IFTIKHAR ALAM and working with Insurance"
+ch = x
+ch = x[4]
+print(ch)

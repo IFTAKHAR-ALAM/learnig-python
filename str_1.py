@@ -38,3 +38,14 @@ print(x.endswith("ALAM"))
 x = "M IFTIKHAR ALAM"
 print(x.endswith("IFT"))
 
+x = "m IFTIKHAR ALAM"
+x = (x.capitalize())
+print(x)
+
+x = (x.capitalize())
+print(x)
+
+x = "M IFTIKHAR ALAM"
+print(x.replace("I", "A"))
+
+

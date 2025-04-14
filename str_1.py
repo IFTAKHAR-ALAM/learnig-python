@@ -65,6 +65,9 @@ print(x.find("IFT"))
 x = "I am M IFTIKHAR ALAM fron Karachi but you are fron Lahore"
 print(x.find("from"))
 
+x = "NUSRAT IFRIKHAR"
+print(x.count("I"))
+
 
 
 

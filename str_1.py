@@ -31,3 +31,10 @@ print(x[ 0:9 ])
 
 x = "ARSAL IFTIKHAR"
 print(x[ -1:-5] )
+
+x = "M IFTIKHARALAM"
+print(x.endswith("ALAM"))
+
+x = "M IFTIKHAR ALAM"
+print(x.endswith("IFT"))
+

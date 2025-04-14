@@ -48,4 +48,23 @@ print(x)
 x = "M IFTIKHAR ALAM"
 print(x.replace("I", "A"))
 
+x = "M IFTIKHAR ALAM"
+print(x.replace("ALAM", "AHMED"))
+
+x = "m IFTIKHAR ALAM"
+x = (x.upper())
+print(x)
+
+x = "M IFTIKHAR ALAM"
+print(x.lower())
+print(x)
+
+x = "M IFTIKHAR ALAM"
+print(x.find("IFT"))
+
+x = "I am M IFTIKHAR ALAM fron Karachi but you are fron Lahore"
+print(x.find("from"))
+
+
+
 

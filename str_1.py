@@ -11,7 +11,7 @@ print("My name is IFTIKHAR" + "and I am working with Insurance")
 int("20")
 x = int(input("Enter your val:" ))
 
-print(type(x), x ))
+print(type(x), x ) 
 
 
 name = input("Enter your name:" )
@@ -30,4 +30,4 @@ x = "NUSRAT IFTIKHAR"
 print(x[ 0:9 ])
 
 x = "ARSAL IFTIKHAR"
-print(x[ -1:-5])
+print(x[ -1:-5] )

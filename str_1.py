@@ -77,3 +77,7 @@ year = 2025
 month = 2
 print(calendar.month(year, month))
 
+yy = 2024
+mm = 2
+print(calendar.month(yy, mm))
+

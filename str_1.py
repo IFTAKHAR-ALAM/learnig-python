@@ -69,7 +69,7 @@ x = "NUSRAT IFRIKHAR"
 print(x.count("I"))
 
 
-yy = 2025
-mm = 12
-print(calendar.month(yy, mm))
+year = 2025
+month = 1
+print(calendar.month(year, month))
 

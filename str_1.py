@@ -154,6 +154,8 @@ elif(marks >= 50):
     
     student = ["IFTIKHAR", 90.6, 40, "Karachi, Pakistan"] 
     print(student)
+    student[0] = "ARSAL IFTIKHAR"
+    print(student)
     
     
     

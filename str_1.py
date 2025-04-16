@@ -119,6 +119,8 @@ elif(marks >= 60):
 elif(marks >= 50):    
     print("Grade E")
     
+    
+    marks =int(input("Enter your marks: "))
     marks = 75
     
     if(marks >= 90):

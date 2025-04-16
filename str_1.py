@@ -199,6 +199,26 @@ elif(marks >= 50):
     print(tup)
     print(type(tup))
     
+    tup = (1)
+    print(tup)
+    print(type(tup))
+    
+    tup = (2.0)
+    print(tup)
+    print(type(tup))
+    
+    tup = "IFTIKHAR"
+    print(tup)
+    print(type(tup))
+    
+    tup = ("IFTIKHAR", )
+    tup = (2.0)
+    print(tup)
+    print(type(tup))
+    
+    
+    
+    
     
     
     

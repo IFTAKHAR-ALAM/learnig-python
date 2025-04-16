@@ -175,6 +175,13 @@ elif(marks >= 50):
     print(list.sort())
     print(list)
     
+    list = [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    list.append(11)
+    list.insert(0, 12)
+    print(list.sort())
+    list.remove()
+    print(list)
+    
     
     
     

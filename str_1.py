@@ -71,7 +71,7 @@ print(x.count("I"))
 
 year = 2025
 month = 1
-print(calendar: ,month(year, month))
+print(calendar.month(year, month))
 
 year = 2025
 month = 2
@@ -118,4 +118,20 @@ elif(marks >= 60):
     print("Grade D")
 elif(marks >= 50):    
     print("Grade E")
+    
+    marks = 75
+    
+    if(marks >= 90):
+        Grade = "A"
+    elif(maiks >= 90):
+        Grade = "A"
+    elif(marks >= 80 and marks < 90):
+        Grade = "B"
+    elif(marks >= 70 and marks < 80):
+        Grade = "C"
+    else:    
+        Grade = "D"
+    ptint("Grade of the student -> ", Grade)    
+    
+    
         

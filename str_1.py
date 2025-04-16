@@ -168,6 +168,14 @@ elif(marks >= 50):
     print(marks[-4:-1])
     print(marks[-5:-2 ])
     
+    list =  ["IFTIKHAR", "ARSAL", "Karachi, Pakistan"]
+    print(list)
+    print(list.append("Pakistan"))
+    print(list.reverse())
+    print(list.sort())
+    print(list)
+    
+    
     
     
     

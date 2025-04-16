@@ -157,6 +157,11 @@ elif(marks >= 50):
     student[0] = "ARSAL IFTIKHAR"
     print(student)
     
+    marks = [80.1, 90.1, 70.1, 60.1, 50.1]
+    print(marks[1:3])
+    print(marks[0:4])
+    print(marks[0:5])
+    
     
     
         

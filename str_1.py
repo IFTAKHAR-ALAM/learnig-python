@@ -133,7 +133,24 @@ elif(marks >= 50):
         Grade = "C"
     else:    
         Grade = "D"
-    ptint("Grade of the student -> ", Grade)    
+    ptint("Grade of the student -> ", Grade)  
+    
+    
+    marks1 = 90.1
+    marks2 = 80.1
+    marks3 = 70.1  
+    marks4 = 60.1
+    marks5 = 50.1
+    # marks = (marks1 + marks2 + marks3 + marks4 + marks5) / 5
+    
+    marks = [80.1, 90.1, 70.1, 60.1, 50.1]
+    print(marks)
+    print(marks[0])
+    print(marks[1])
+    print(marks[2])
+    print(marks[3])
+    priny(type(marks))
+    
     
     
         

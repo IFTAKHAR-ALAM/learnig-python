@@ -150,6 +150,7 @@ elif(marks >= 50):
     print(marks[2])
     print(marks[3])
     priny(type(marks))
+    print(len(marks))
     
     
     

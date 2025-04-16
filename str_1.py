@@ -152,6 +152,9 @@ elif(marks >= 50):
     priny(type(marks))
     print(len(marks))
     
+    student = ["IFTIKHAR", 90.6, 40, "Karachi, Pakistan"] 
+    print(student)
+    
     
     
         

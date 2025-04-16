@@ -81,3 +81,26 @@ yy = 2024
 mm = 2
 print(calendar.month(yy, mm))
 
+
+# CONDITIONA L STATEMENTS
+
+age =23
+
+if(age >= 18): 
+    print("You are eligible to NIC")
+else:
+    print("You are not eligible to NIC")
+    
+    age = 22
+    
+    if (age >= 18):
+        print("You are eligible to drive a car")
+    else:
+        print("You are not eligible to drive a car")  
+        
+age = 5    
+
+if("age >= 18"):
+    print("You are eligible to admission nursery")
+else:
+    print("You are not eligible to admission nursery")    

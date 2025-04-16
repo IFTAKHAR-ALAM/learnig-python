@@ -71,7 +71,7 @@ print(x.count("I"))
 
 year = 2025
 month = 1
-print(calendar.month(year, month))
+print(calendar: ,month(year, month))
 
 year = 2025
 month = 2
@@ -104,3 +104,18 @@ if("age >= 18"):
     print("You are eligible to admission nursery")
 else:
     print("You are not eligible to admission nursery")    
+    
+    
+    marks = 75
+    
+if(marks >= 90):
+    print("Grade A")
+elif(marks >= 80):   
+    print("Grade B") 
+elif(marks >= 70):    
+    print("Grade C")
+elif(marks >= 60):    
+    print("Grade D")
+elif(marks >= 50):    
+    print("Grade E")
+        

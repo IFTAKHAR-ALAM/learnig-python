@@ -161,6 +161,10 @@ elif(marks >= 50):
     print(marks[1:3])
     print(marks[0:4])
     print(marks[0:5])
+    print(marks[ :5])
+    print(marks[ :4])
+    print(marks[ 2: ])
+    
     
     
     

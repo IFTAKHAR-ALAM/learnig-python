@@ -250,6 +250,7 @@ elif(marks >= 50):
         "subject" : ("math", "english", "urdu", "islamiyat", "computer")
     }
     
+    info["name"] = "ARSAL IFTIKHAR"
     print(info)
     print(type(info))      
     

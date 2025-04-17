@@ -217,6 +217,17 @@ elif(marks >= 50):
     print(type(tup))
     
     
+    tup = (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+    print(tup.index(1))
+    print(tup.index(2))
+    print(tup.index(3))
+    print(tup.index(4))
+    print(tup.count(2))
+    print(tup.count(3))
+    print(tup.count(4))
+          
+    
+    
     
     
     

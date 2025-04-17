@@ -238,7 +238,7 @@ elif(marks >= 50):
     print(info("age"))
     print(info("city"))
     print(info("country"))
-    print(type.(info))
+
     
     
     info = {

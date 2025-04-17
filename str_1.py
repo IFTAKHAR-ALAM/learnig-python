@@ -225,6 +225,19 @@ elif(marks >= 50):
     print(tup.count(2))
     print(tup.count(3))
     print(tup.count(4))
+    
+    info ={
+        "name": "IFTIKHAR",
+        "age": 23,
+        "city": "Karachi",
+        "country": "Pakistan"
+    }
+    print(info)
+    print(type(info))
+    print(info["name"])
+    print(info["age"])
+    print(info["city"])
+    print(info["country"])
           
     
     

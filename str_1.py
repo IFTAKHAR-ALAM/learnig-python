@@ -252,7 +252,12 @@ elif(marks >= 50):
     
     info["name"] = "ARSAL IFTIKHAR"
     print(info)
-    print(type(info))      
+    print(type(info))    
+    
+    null_dic = {}  
+    print(null_dic)
+    print(type(null_dic))
+    null_dic["name"] = "ZARNISHA"
     
     
     

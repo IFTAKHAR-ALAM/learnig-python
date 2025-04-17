@@ -234,10 +234,12 @@ elif(marks >= 50):
     }
     print(info)
     print(type(info))
-    print(info["name"])
-    print(info["age"])
-    print(info["city"])
-    print(info["country"])
+    print(info"name")
+    print(info("age"))
+    print(info("city"))
+    print(info("country"))
+    print(type.(info))
+
           
     
     

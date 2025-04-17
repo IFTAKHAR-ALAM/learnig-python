@@ -239,8 +239,19 @@ elif(marks >= 50):
     print(info("city"))
     print(info("country"))
     print(type.(info))
-
-          
+    
+    
+    info = {
+        
+        "name" : "IFTIKHAR",
+        "age" : 23,
+        "city" : ["Karachi", "hyderabad", "lahore", "multan", "peshawar",],
+        "country" : "Pakistan",
+        "subject" : ("math", "english", "urdu", "islamiyat", "computer")
+    }
+    
+    print(info)
+    print(type(info))      
     
     
     

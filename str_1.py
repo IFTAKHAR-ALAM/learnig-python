@@ -268,7 +268,15 @@ elif(marks >= 50):
     
     collection = set()
     print(type(collection))
-    print(collection))
+    print(len(collection))
+    print(collection)
+    
+    collection.add(1)
+    collectiom.add(11)
+    collection.pop()
+    collection.remove(1)
+    
+    # collectiom.clear()
     
     
     

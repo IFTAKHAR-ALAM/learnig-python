@@ -261,6 +261,11 @@ elif(marks >= 50):
     nul_dic["name"] = "Kamal"    
     
     
+    collection = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+    print(type(collection))
+    print(collection)
+    
+    
     
     
     

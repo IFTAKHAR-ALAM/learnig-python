@@ -266,6 +266,12 @@ elif(marks >= 50):
     print(len(collection))
     
     
+    collection = set()
+    print(type(collection))
+    print(collection))
+    
+    
+    
     
     
     

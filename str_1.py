@@ -258,6 +258,7 @@ elif(marks >= 50):
     print(null_dic)
     print(type(null_dic))
     null_dic["name"] = "ZARNISHA"
+    nul_dic["name"] = "Kamal"    
     
     
     

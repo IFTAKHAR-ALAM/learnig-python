@@ -263,7 +263,8 @@ elif(marks >= 50):
     
     collection = {1, 2, 3, 3, 4, 4, 5, 6, 7, 8, 9, 10, "IFTIKHAR", "ARSAL", "IFTIKHAR", "ARSAL", "NUSRAT"}
     print(type(collection))
-    print(collection)
+    print(len(collection))
+    
     
     
     

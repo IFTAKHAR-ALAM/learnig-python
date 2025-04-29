@@ -226,31 +226,37 @@ elif(marks >= 50):
     print(tup.count(3))
     print(tup.count(4))
     
-    info ={
-        "name": "IFTIKHAR",
-        "age": 23,
-        "city": "Karachi",
-        "country": "Pakistan"
-    }
-    print(info)
-    print(type(info))
-    print(info"name")
-    print(info("age"))
-    print(info("city"))
-    print(info("country"))
-
-    
     
     info = {
         
-        "name" : "IFTIKHAR",
-        "age" : 23,
-        "city" : ["Karachi", "hyderabad", "lahore", "multan", "peshawar",],
-        "country" : "Pakistan",
-        "subject" : ("math", "english", "urdu", "islamiyat", "computer")
-    }
+    "name": "IFTIKHAR",
+    "age": 23,
+
+    "city": "Karachi",
+
+    "country" : "Pakistan"
     
-    info["name"] = "ARSAL IFTIKHAR"
+    },
+
+    print(info)
+    print(type[info])
+    print(info["name"])
+    print(info["age"])
+    print(info[]"city"])
+    print(info["country"])
+
+    
+    info = {
+        
+    "name" : "IFTIKHAR",
+    "age" : 23,
+    "city" : ["Karachi", "hyderabad", "lahore", "multan", "peshawar",],
+     "country" : "Pakistan",
+    "subject" : ("math", "english", "urdu", "islamiyat", "computer")
+    
+    },
+    
+    info("name")  : "ARSAL IFTIKHAR"
     print(info)
     print(type(info))    
     
@@ -272,7 +278,7 @@ elif(marks >= 50):
     print(collection)
     
     collection.add(1)
-    collectiom.add(11)
+    collection.add(11)
     collection.pop()
     collection.remove(1)
     

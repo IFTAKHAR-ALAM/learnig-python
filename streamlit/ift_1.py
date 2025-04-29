@@ -1,2 +1,1 @@
 
-print("M IFTIKHAR ALAM", "GIAIC NO.", 476369)

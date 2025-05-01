@@ -1,5 +1,2 @@
 
-
-
- import pandas as pd
- 
+print("M IFTIKHAR ALAM")

@@ -54,7 +54,7 @@ st.write("This is a web app that helps you find delicious and healthy food optio
 st.write("This app is currently under development and may not have all features implemented yet.")
 
 from PIL import Image
-img = Image.open("ZARNiSHA 1.jpg","ZARNISHA.jpg")
+img = Image.open("pic.webp")
 st.image(img)
 
 

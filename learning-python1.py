@@ -1,7 +1,8 @@
 import streamlit as st
 
-st.title("SONIA CHAIN OF FOOD")
-st.write("My name is M IFTIKHAR ALAM & I am partner of this Company")
+
+st.title( "SONIA CHAIN OF DELICIOUS & HEALTHY FOODS" )
+st.write("My name is: M IFTIKHAR ALAM & I am partner of this Company")
 
 
 st.header("WEB APP")

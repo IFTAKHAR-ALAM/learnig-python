@@ -1,24 +1,26 @@
 import streamlit as st
 
 
-st.title( "SONIA CHAIN OF DELICIOUS & HEALTHY FOODS" )
+#st.title( "SONIA CHAIN OF DELICIOUS & HEALTHY FOODS" )
+st.title("SONIA CHAIN OF FOOD")
 st.write("My name is: M IFTIKHAR ALAM & I am partner of this Company")
 
 
-st.header("WEB APP")
+#st.header("SONIA CHAIN OF FOOD")
+st.header("SONIA CHAIN OF DELICIOUS & HEALTHY FOODS")
 
 
-st.write("Hello World & Hello Github World")
+#st.write("Hello World & Hello Github World")
 st.write("This is a web app for SONIA CHAIN OF FOOD")
 
-import streamlit as st
+#import streamlit as st
 
-st.title("SONIA CHAIN OF FOOD")
-st.write("SONIA CHAIN OF DELICIOUS & HEALTHY FOODS ")
+#st.title("SONIA CHAIN OF FOOD")
+#st.write("SONIA CHAIN OF DELICIOUS & HEALTHY FOODS ")
 
-st.markdown("###### M IFTIKHAR ALAM is a partner of this company")
+#st.markdown("###### M IFTIKHAR ALAM is a partner of this company")
 
-st.write("Hello World!!!!")
+#st.write("Hello World!!!!")
 
 st.subheader("Food Recommendation App")
 st.write("This is a food recommendation app that helps you find delicious and healthy food options based on your preferences.")
@@ -45,8 +47,8 @@ st.info("Please note that the app is currently under development and may not hav
 st.warning("Stay tuned for updates and new features coming soon!")
 
 
-import streamlit as st
-import pandas as pd
+#import streamlit as st
+#import pandas as pd
 
 
 
@@ -55,7 +57,7 @@ st.write("This is a web app that helps you find delicious and healthy food optio
 st.write("This app is currently under development and may not have all features implemented yet.")
 
 from PIL import Image
-img = Image.open("pic.webp")
+img = Image.open("rb.webp")
 st.image(img)
 
 
